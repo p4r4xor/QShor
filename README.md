@@ -1,22 +1,5 @@
 
-# Course Project - Shor's Algorithm
-
-CS251 Quantum Information Science, 2018 @ ACM Honors Class, SJTU
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-$\newcommand{\ket}[1]{\left|{#1}\right\rangle}
-\newcommand{\bra}[1]{\left\langle{#1}\right|}$
-
-## Lecturer
-
-Prof. **Runyao Duan**
-
-
-## Group Member
-
-- **Zetian Jiang**
-- **Zhanghao Wu**
-- **Zhou Fan**
-
+# Shor's Algorithm
 
 ## Abstract
 
