@@ -428,5 +428,6 @@ threadPool.join()
 results = [r.get() for r in results]
 ```
 
+
 For example, when we calls the code to factorize 21. The code will calculate several $x$ at the same time, and get the result in a short time. The process is shown in the figure below.
 ![](./others/parallel.png)
