@@ -5,3 +5,4 @@ def gcd(a, b):
         a = a % b
         a, b = b, a
     return a
+
