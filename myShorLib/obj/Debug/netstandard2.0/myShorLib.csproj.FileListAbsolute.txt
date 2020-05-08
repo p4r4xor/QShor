@@ -25,3 +25,4 @@ C:\AResource\QuantumComputing\myShor\myShorLib\obj\Debug\netstandard2.0\myShorLi
 C:\AResource\QuantumComputing\myShor\myShorLib\obj\Debug\netstandard2.0\myShorLib.AssemblyInfo.cs
 C:\AResource\QuantumComputing\myShor\myShorLib\obj\Debug\netstandard2.0\myShorLib.dll
 C:\AResource\QuantumComputing\myShor\myShorLib\obj\Debug\netstandard2.0\myShorLib.pdb
+
